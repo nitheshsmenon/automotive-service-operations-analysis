@@ -46,7 +46,11 @@ The project uses **Excel, SQL, and Power BI** to move from exploratory analysis 
 
 ## Dashboard
 
-Dashboard screenshot will be added here.
+## Dashboard
+
+![Automotive Service Operations Dashboard](dashboard-overview.png)
+
+The interactive Power BI dashboard provides a management-level view of service performance, including customer wait times, service duration, technician workload, parts availability, and high-delay repair orders.
 
 ## Recommendations
 
